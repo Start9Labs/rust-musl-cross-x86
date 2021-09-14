@@ -1,5 +1,5 @@
 # rust-musl-cross
-Cross compiler for armv7-unknown-linux-musleabihf
+Cross compiler for x86_64-unknown-linux-musleabihf
 
 ## Setup
 ```
